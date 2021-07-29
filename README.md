@@ -6,31 +6,19 @@
   Space Invaders TAIL
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TailUFPB
-/
-space-invaders-tail">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TailUFPB/space-invaders-tail">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TailUFPB
-/
-space-invaders-tail">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TailUFPB/space-invaders-tail">
   
   <a href="https://github.com/franklinthony/fake-news-identifier/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TailUFPB
-/
-space-invaders-tail">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TailUFPB/space-invaders-tail">
   </a>
 
-  <a href="https://github.com/TailUFPB
-/
-space-invaders-tail">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/TailUFPB
-/
-space-invaders-tail">
+  <a href="https://github.com/TailUFPB/space-invaders-tail">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/TailUFPB/space-invaders-tail">
   </a>
   
-  <a href="https://colab.research.google.com/github/TailUFPB
-/
-space-invaders-tail/blob/main/RL_Tail_Space_Invaders.ipynb">
+  <a href="https://colab.research.google.com/github/TailUFPB/space-invaders-tail/blob/main/RL_Tail_Space_Invaders.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 </p>
